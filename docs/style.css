@@ -15,12 +15,12 @@ ps{font-family: serif; font-size:90%; line-height: 1.2em;}
 ph{font-family: Helvetica; font-size:100%; line-height: 1.5em;} 
 
 h1, h2, h3, h4
-{ font-size: 130%;
-  padding: 7px 0px 5px 0px; 
-  margin: 0px 0px 12px 0px; 
-  font-weight: normal;
- font-family: Arial, Microsoft YaHei, 黑体, 宋体
-  <!--font-family: serif;-->
+{    font-size: 130%;
+     padding: 7px 0px 5px 0px;
+     margin: 0px 0px 12px 0px;
+     font-weight: normal;
+     font-family: Arial, Microsoft YaHei, 黑体, 宋体
+     <!--font-family: serif;-->
 }
 
 h1, h3
@@ -69,20 +69,20 @@ blockquote
   background: #FFF;}
 
 ul
-{ margin: 2px 0px 16px 16px;
+{ margin: 2px 0px 16px 20px;
   padding: 0px;}
 
 ul li
 { list-style-type: disc;
-  margin: 0px 0px 6px 16px; 
+  margin: 0px 0px 6px 20px; 
   padding: 0px;}
 
 ol
-{ margin: 8px 0px 0px 16px;
+{ margin: 8px 0px 0px 20px;
   padding: 0px;}
 
 ol li
-{ margin: 0px 7px 11px 16px; 
+{ margin: 0px 7px 11px 20px; 
   padding: 0px;}
 
 posright
