@@ -315,7 +315,13 @@ ul#menu li a:hover
   border-top: 1px solid #D9D5CF;
   border-bottom: 1px solid #FFF;
   margin: 0 0 20px 0;}
-  
+
+
+.kaiti
+{
+    font-family: "KaiTi", "楷体", "STKaiti", serif;
+}
+
 table
 { margin: 10px 0 30px 0;}
 
